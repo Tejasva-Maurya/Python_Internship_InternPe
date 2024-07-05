@@ -7,7 +7,7 @@ This repository contains the projects completed during my Python internship at I
 ### 1. Tic Tac Toe Game
 This project is a console-based implementation of the classic Tic Tac Toe game. It allows two players to play the game in the terminal.
 
-**File:** `Task_1_Tic_Tac_Toe_Game.py`
+**File:** `Tic_Tac_Toe_Game.py`
 
 #### Features
 - Two-player game
@@ -18,7 +18,7 @@ This project is a console-based implementation of the classic Tic Tac Toe game. 
 ### 2. Digital Clock
 This project is a digital clock application that displays the current time. It uses the `tkinter` library to create a graphical user interface.
 
-**File:** `Task_2_Clock.py`
+**File:** `Clock.py`
 
 #### Features
 - Displays current time in hours, minutes, and seconds
